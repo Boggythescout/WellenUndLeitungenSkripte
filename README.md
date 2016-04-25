@@ -1,4 +1,3 @@
 # WellenUndLeitungenSkripte
-Skripte fÃ¼r die Wellen und Leitungen Klausur. BlÃ¼mel DHBW
+Skripte für die Wellen und Leitungen Klausur. Blümel DHBW
 
-FÃ¼r die .mlx Programme ist mindestens Matlab 2016 notwendig!
